@@ -1,7 +1,4 @@
-import cv2
-import numpy
-import time
-
+import cv2, numpy, time
 
 class CaptureManager(object):
 
